@@ -1,0 +1,28 @@
+{
+  "counterConfig": [
+    {
+      "counterName": "numberCounter_1",
+      "counterIndex": "num01",
+      "type": "num",
+      "incrValue": "7",
+      "initValue": "0"
+    },
+    {
+      "counterName": "numberCounter_2",
+      "counterIndex": "num02",
+      "type": "num",
+      "incrValue": "3",
+      "initValue": "1"
+    },
+    {
+      "counterName": "freqCounter_1",
+      "counterIndex": "fre01",
+      "type": "fre",
+      "initValue": {
+        "2020-12-10-00": "5",
+        "2020-12-01-00": "6"
+      },
+      "incrValue": "8"
+    }
+  ]
+}
